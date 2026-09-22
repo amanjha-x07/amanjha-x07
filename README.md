@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Aman Kumar Jha 👋
 
-<!--
-**amanjha-x07/amanjha-x07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI/ML Enthusiast | B.Tech AIML Student | Future AI Engineer
 
-Here are some ideas to get you started:
+I'm a B.Tech student specializing in Artificial Intelligence & Machine Learning, focused on building strong foundations in programming, Data Structures & Algorithms, and AI/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On
+
+- 🐍 Python & Data Structures
+- 🤖 Artificial Intelligence & Machine Learning
+- 🧠 Problem Solving & Core Computer Science
+- 💻 Building practical projects
+- 📚 Continuously improving my technical skills
+
+### 🛠️ Tech & Skills
+
+- Python
+- Data Structures & Algorithms
+- AI / ML
+- Git & GitHub
+- Core Computer Science
+
+### 🎯 Goal
+
+To grow into a skilled AI Engineer by building real-world projects and continuously strengthening my technical knowledge.
+
+### 📌 Currently Learning
+
+AI/ML • Python • DSA • Core CS
+
+---
+
+⭐ Thanks for visiting my profile!
